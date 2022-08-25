@@ -85,27 +85,24 @@ footer {
 }
 
 @media screen and (max-width:768px){
-  header{
-    width:100%;
-  }
-  
+
   main{
     width:100%;
     display: block;
     padding-right: 5%;
     padding-left:5%;
-    margin:0 auto;
+    margin:50px auto;
   }
   
   .image-box{
     margin: 0 auto;
     margin-bottom: 20px;
-    width: 90%;
+    width: 100%;
   }
   
   .image1-box{
     margin: 0 auto;
-    width: 90%;
+    width: 100%;
   }
   
   .image1{
@@ -121,8 +118,4 @@ footer {
   }
   
   
-  
-  footer{
-    width:100%;
-  }
 }
